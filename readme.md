@@ -12,3 +12,5 @@ research into Mars colonization...
 
 ---
 ## If you want to help let me know.
+
+this is a sample of markdown
